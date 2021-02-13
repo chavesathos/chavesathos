@@ -1,5 +1,4 @@
-- 👋 Hi, I'm Athos
-- 👀 I'm interested in game development, app's and web design
-- 🌱 I am currently learning Systems Analysis and Development
-- 💞️ I'm looking to collaborate on projects and group work
+- 👋 I'm Athos
+- 👀 Interested in game development, app's and web design
+- 🌱 Learning Systems Analysis and Development
 - 📫 How to reach me: a.thos_chaves@hotmail.com 
