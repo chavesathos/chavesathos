@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @chavesathos
+- 👀 I'm interested in game, application and web design development
+- 🌱 I am currently learning systems analysis and development
+- 💞️ I'm looking to collaborate on projects and group work
+- 📫 How to reach me: a.thos_chaves@hotmail.com 
