@@ -1,4 +1,4 @@
-### Olá! eu sou o Athos Silveira ✌🏽
+## Olá! eu sou o Athos Silveira.
 Web Design, UX UI Design e Programador Frontend.
 
 <div style="display: inline_block">
@@ -10,4 +10,16 @@ Web Design, UX UI Design e Programador Frontend.
 </div><br/>
 
 Apaixonado pela tecnologia e seus avanços ✨
+
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/chavesathos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:athos.chaves94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/athos-silveira-2369a9179" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
+
 
