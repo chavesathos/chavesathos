@@ -1,5 +1,5 @@
 ## Olá! eu sou o Athos Silveira.
-Web Design, UX UI Design e Programador Frontend.
+Web Design, UX UI Design and Mobile Developer.
 
 <div style="display: inline_block">
  <img align="center" alt="Athos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
